@@ -15,24 +15,24 @@ This repo provides:
 
 Use my links to explore Microsoft resources and help me reach my Preferred Visitor goal!
 ```
-- https://azure.microsoft.com?wt.mc_id=studentamb_397468
-- https://blog.fabric.microsoft.com?wt.mc_id=studentamb_397468
-- https://code.visualstudio.com?wt.mc_id=studentamb_397468
-- https://community.fabric.microsoft.com?wt.mc_id=studentamb_397468
-- https://devblogs.microsoft.com?wt.mc_id=studentamb_397468
-- https://developer.microsoft.com?wt.mc_id=studentamb_397468
-- https://dotnet.microsoft.com?wt.mc_id=studentamb_397468
-- https://events.microsoft.com?wt.mc_id=studentamb_397468
-- https://foundershub.startups.microsoft.com?wt.mc_id=studentamb_397468
-- https://imaginecup.microsoft.com?wt.mc_id=studentamb_397468
-- https://learn.microsoft.com?wt.mc_id=studentamb_397468
-- https://learn.microsoft.com/copilot?wt.mc_id=studentamb_397468
-- https://mvp.microsoft.com?wt.mc_id=studentamb_397468
-- https://reactor.microsoft.com?wt.mc_id=studentamb_397468
-- https://techcommunity.microsoft.com?wt.mc_id=studentamb_397468
-- https://microsoft.com/microsoft-cloud/blog?wt.mc_id=studentamb_397468
-- https://microsoft.com/microsoft-fabric?wt.mc_id=studentamb_397468
-- https://microsoft.com/startups?wt.mc_id=studentamb_397468
+- [Azure](https://azure.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Fabric Blog](https://blog.fabric.microsoft.com?wt.mc_id=studentamb_397468)
+- [Visual Studio Code](https://code.visualstudio.com?wt.mc_id=studentamb_397468)
+- [Fabric Community](https://community.fabric.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Dev Blogs](https://devblogs.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Developer](https://developer.microsoft.com?wt.mc_id=studentamb_397468)
+- [.NET](https://dotnet.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Events](https://events.microsoft.com?wt.mc_id=studentamb_397468)
+- [Founders Hub](https://foundershub.startups.microsoft.com?wt.mc_id=studentamb_397468)
+- [Imagine Cup](https://imaginecup.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Learn](https://learn.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Learn Copilot](https://learn.microsoft.com/copilot?wt.mc_id=studentamb_397468)
+- [Microsoft MVP](https://mvp.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Reactor](https://reactor.microsoft.com?wt.mc_id=studentamb_397468)
+- [Tech Community](https://techcommunity.microsoft.com?wt.mc_id=studentamb_397468)
+- [Microsoft Cloud Blog](https://microsoft.com/microsoft-cloud/blog?wt.mc_id=studentamb_397468)
+- [Microsoft Fabric](https://microsoft.com/microsoft-fabric?wt.mc_id=studentamb_397468)
+- [Microsoft for Startups](https://microsoft.com/startups?wt.mc_id=studentamb_397468)
 ```
 
 ## 💬 Discussions
